@@ -24,8 +24,8 @@
 </p>
 
 <div align="center">
-  <img src="https://stats.quira.sh/anandurnair/github?theme=dark" alt="anandurnair's GitHub Stats" style="margin-right: 10px;" height="170" />
-  <img src="https://stats.quira.sh/anandurnair/languages-over-time?theme=dark" alt="anandurnair's GitHub Languages Over Time" height="170" />
+  <img src="https://stats.quira.sh/anandurnair/github?theme=dark" alt="anandurnair's GitHub Stats" style="margin-right: 10px;" height="270" />
+  <img src="https://stats.quira.sh/anandurnair/languages-over-time?theme=dark" alt="anandurnair's GitHub Languages Over Time" height="270" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
